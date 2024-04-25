@@ -1,0 +1,3 @@
+# VRAR_finalproject
+
+For our VRAR_finalproject, our team developed a captivating car racing game using Unity, enhanced with multiplayer functionality. The game boasts a seamless starting sequence, customizable car colors, and an intuitive interface for players. We utilized Unity's prefab assets to craft visually stunning decorations throughout the game. Implementing multiplayer capabilities was made possible through Photon.PUN, allowing us to establish both host and client servers capable of seamlessly duplicating players. Check out our video demonstration of the project at the following link: [racing game link](https://youtu.be/_iKYQy7qvrI).
